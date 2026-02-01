@@ -1,11 +1,11 @@
- Quiz App
+# Quiz App
 
 An interactive and responsive **Quiz Application** built using **HTML, CSS, and JavaScript**.  
 The app fetches real-time multiple-choice questions from a public trivia API, provides instant answer feedback, and tracks the user's score.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🎯 Dynamic quiz questions loaded from an external API  
 - ✅ Instant feedback (correct answers turn green, wrong turn red)  
@@ -18,7 +18,7 @@ The app fetches real-time multiple-choice questions from a public trivia API, pr
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **HTML** – Structure  
 - **CSS** – Styling and responsive layout  
