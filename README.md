@@ -1,4 +1,4 @@
-# 🧠 Quiz App
+ Quiz App
 
 An interactive and responsive **Quiz Application** built using **HTML, CSS, and JavaScript**.  
 The app fetches real-time multiple-choice questions from a public trivia API, provides instant answer feedback, and tracks the user's score.
